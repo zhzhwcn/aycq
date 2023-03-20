@@ -1,0 +1,12 @@
+*.exe
+*.log
+CountLog/
+ChatLog/
+Log/
+/Mir200/Envir/Market_Storage
+/Mir200/Envir/MonItems - 副本 (2)
+/Mud2/DB - 副本 (2)
+/RunGate2/Log(7200)
+/RunGate2/Log(7300)
+/登录器
+/RunGate2/Log(7400)
